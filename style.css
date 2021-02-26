@@ -1,0 +1,118 @@
+body{
+  margin: 0;
+  padding: 0;
+    overflow-x: hidden;
+
+}
+.myimage{
+  position: relative;
+  left: 2%;
+  height: 100%;
+}
+.maintext{
+  position: relative;
+  bottom:  115%;
+  left: 35%;
+  color: #673ab7;
+  font-family: 'Audiowide', cursive;
+}
+.studtext{
+  position: relative;
+  bottom: 115%;
+  left: 42%;
+  color:#cca1ff;
+  font-family: 'Fjalla One', sans-serif;
+}
+.list{
+  font-size: 300%;
+  color:#673ab7;
+  font-family: 'Fjalla One', sans-serif;
+  list-style: circle;
+}
+.bybeka{
+  position: relative;
+  left: 23%;
+  bottom: 10%;
+  font-family: 'Fjalla One', sans-serif;
+}
+.contact{
+  position: relative;
+  bottom: 38%;
+  left: 37%;
+  height: 100%;
+}
+.tsize{
+  position: relative;
+  bottom: 40%;
+  left: 40.5%;
+}
+.tlsize{
+  position: relative;
+  bottom: 39%;
+  left: 49.9%;
+}
+.iconsize{
+  height: 35%;
+}
+.ul1{
+  position: relative;
+  left: 40%;
+  bottom: 47%;
+  margin: 1%;
+}
+.ul2{
+  font-size: 250%;
+  position: relative;
+  bottom: 40%;
+  left: 1%;
+}
+.ul3{
+  position: relative;
+  bottom: 40%;
+  left: 40%;
+}
+ .firstd{
+      height: 150px;
+      margin-bottom:20px;
+      margin-left: 10px;
+      margin-right: 10px;
+     background-color:#F3E9FF ;
+}
+.secondd{
+  height: 400px;
+  margin: 10px;
+  background-color:#E0CBF9;
+}
+.thirdd{
+  height: 400px;
+  margin: 10px;
+  background-color:#F3E9FF ;
+}
+.fourth{
+  height: 400px;
+  margin: 10px;
+  background-color: #E0CBF9;
+}
+.fifth{
+  height: 140px;
+  margin: 10px;
+  background-color:#F3E9FF ;
+}
+.st {
+  position: relative;
+  left: 50px;
+  top: 80px;
+ height: 250px;
+}
+.sn {
+  position: relative;
+  left: 80%;
+  top: 85px;
+ height: 250px;
+}
+.rd {
+  position: relative;
+  left: 35px;
+  top: 80px;
+ height: 200px;
+}
