@@ -33,7 +33,8 @@ body{
   position: relative;
   left: 23%;
   bottom: 10%;
-  font-family: 'Fjalla One', sans-serif;
+  font-family: 'Fjalla One', sans-serif; 
+  color:#673ab7;
 }
 .contact{
   position: relative;
